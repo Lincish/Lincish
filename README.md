@@ -1,4 +1,7 @@
-### Hi there 👋
+**Hi i am Lincish
+
+- 🔭 I am learning PHP, Python and JS
+- ⚡ I think I said everything.
 
 <!--
 **Lincish/Lincish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
