@@ -2,6 +2,7 @@
 
 - 🔭 I am learning PHP, Python and JS
 - ⚡ I think I said everything.
+- 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lincish)](https://github.com/lincish/github-readme-stats)
 
 <!--
